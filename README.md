@@ -2,6 +2,8 @@
 - 🔭 I’m currently studying Computer engineering
 - 🖥️ Exploring embedded computer systems
 - ⚡ASP.NET and Entity Framework developer
+- 🏉 Rugby player and referee 🏉
+
 <!--
 **hristo-nenkov-6/hristo-nenkov-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
