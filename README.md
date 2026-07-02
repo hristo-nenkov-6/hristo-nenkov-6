@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently studying Computer engineering
-- 🖥️ Exploring embedded computer systems
-- ⚡ASP.NET and Entity Framework developer
+- 🖥️ Exploring embedded systems and FPGA design
+- ⚡Working in UVM Verification of DDR5 Memory Controller
 - 🏉 Rugby player and referee 🏉
 
 <!--
