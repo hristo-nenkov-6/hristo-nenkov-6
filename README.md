@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently studying Computer engineering
 - 🖥️ Exploring embedded systems and FPGA design
-- ⚡Working in UVM Verification of DDR5 Memory Controller
+- ⚡Working in UVM Verification of DDR5/LPDDR5/LPDDR6 Memory Controller
 - 🏉 Rugby player and referee 🏉
 
 <!--
